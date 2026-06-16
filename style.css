@@ -1,0 +1,45 @@
+body {
+    background-color: lightyellow;
+    font-family: th sarabun, sans-serif;
+    text-align: center;
+    margin-top: 16%; 
+    color: lightyellow;
+}
+
+.card {
+    padding: 50px;
+    background-color: rgb(55, 69, 55);
+    height: 300px;
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+button {
+    margin: 20px;
+}
+
+.form1 {
+    margin-bottom: 20px;
+}
+
+.allform {
+    font-size: 25px;
+    margin-top: 25px;
+    justify-content: center;
+    gap: 20px;
+}
+
+h1 {
+    color: rgb(55, 69, 55);
+}
+
+button {
+    background-color: lightyellow;
+    color: rgb(55, 69, 55);
+    border: none;
+    margin-top: 30px;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 20px;
+}
