@@ -18,16 +18,16 @@
                     $num1 = $_POST['num1'];
                     $num2 = $_POST['num2'];
 
-                    echo " ด้าน1 : " . $num1 . "<br>" ; 
+                    echo " สูง : " . $num1 . " ซม. " . "<br>" ; 
 
                     echo "<br>";
                     
-                    echo " ด้าน2 : " . $num2 . "<br>" ;
+                    echo " ฐาน : " . $num2 . " ซม. " . "<br>" ;
 
                     echo "<br>";
 
                     $total = 1/2 * $num1 * $num2;
-                    echo "พื้นที่ : " . $total ."<br>";
+                    echo "พื้นที่ : " . $total . " ตร.ซม. " . "<br>";
             
 
                 ?>

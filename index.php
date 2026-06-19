@@ -49,14 +49,14 @@
 
                 <div class = "form1">
 
-                   <label for="input2">ด้าน1</label>
+                   <label for="input2">สูง</label>
                    <input type="number" name="num1"> <br>
                    
                 </div>
 
                 <div class = "form2">
 
-                    <label for="input3">ด้าน2</label>
+                    <label for="input3">ฐาน</label>
                     <input type="number" name="num2"> <br>
 
                 </div>
